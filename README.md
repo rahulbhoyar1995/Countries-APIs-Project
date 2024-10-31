@@ -1,4 +1,5 @@
-# Sant Gadge Baba Amravati University, Amravati
-## B.E (Mechanical Engineering)
-## Duration : June 2013 to June 2017
+# Countries API Project
+
 ### Author : Rahul Bhoyar
+
+Link : rahulbhoyar1995/Countries-APIs-Project
